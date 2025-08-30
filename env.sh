@@ -1,3 +1,5 @@
+# Reference: https://colab.research.google.com/drive/1VKoOsUsT_uGGbuhGl8GH_SJaRknMZ0A2#scrollTo=gAhFf6H3GHIU
+
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O /root/miniconda.sh
 bash /root/miniconda.sh -b -p /root/miniconda3
 export PATH="/root/miniconda3/bin:$PATH"
